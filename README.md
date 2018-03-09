@@ -2,12 +2,16 @@
 
 # ماجستير الجامعة الافتراضية. 
 ملف للمساعدة في امتحانات القبول في ماجستيرات الجامعة الافتراضية السورية
-المفاضلة الجاي الشهر التالت  
+المفاضلة مفتوح حاليا لمفاضلة الربيع لغاية 25-3
+
+[**المعلومات متوفرة ع موقع alphad و اذا عندك اي سؤال فيك تطرحو ع الرابط **](https://www.alphadsy.com/)
+
+**تم تحديث المعلومات لمفاضلة ال s18**  
 
 ## الموقع الرسمي للجامعة الافتراضية
 [**موقع الجامعة الافتراضية**](https://www.svuonline.org/)
 
-[**دليل المفاضلة الماضية الرسمي**](https://www.svuonline.org/sites/default/files/pr/Guide_F17.pdf)
+[**دليل المفاضلة الرسمي**](https://www.svuonline.org/sites/default/files/pr/Guide_F18.pdf)
 
 حسابات الجامعة الرسمية على المواقع الاجتماعية لمتابعة اخر اخبار الجامعة و امتحامات القبول
 
@@ -28,6 +32,7 @@
 - [علوم الويب mws](https://github.com/shu3aybbadran/svu-master/blob/master/mws.md)
 - [تقانات الويب mwt](https://github.com/shu3aybbadran/svu-master/blob/master/mwt.md)
 - [امتحانات الادارة miq mba pmtm](https://github.com/shu3aybbadran/svu-master/blob/master/gmat.md)
+
 
 ### ملاحظات للتاجيل العسكري
 ورقة التاجيل بتستلما بعد القبول و التسجيل ودفع الرسوم تقريبا **بالشهر التاني** لمفاضلة الخريف
